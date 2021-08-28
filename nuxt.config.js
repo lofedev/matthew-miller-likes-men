@@ -36,8 +36,6 @@ export default {
     "@nuxt/content"
   ],
 
-  target: 'static',
-
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
